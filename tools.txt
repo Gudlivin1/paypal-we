@@ -1,4 +1,4 @@
-SDLC is good
+SDLC is good for you
 LINUX is open source
 SCRIPTING is automation
 GIT
