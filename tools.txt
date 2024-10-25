@@ -1,0 +1,6 @@
+SDLC is good
+LINUX is open source
+SCRIPTING is automation
+GIT
+AWS
+EC2
